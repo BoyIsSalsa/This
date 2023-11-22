@@ -40,7 +40,7 @@ body, html {
   
   .content {
     text-align: center;
-    color: rgb(107, 104, 104); /* Red */
+    color: rgb(74, 69, 69); /* Red */
   }
   
   h1 {
@@ -56,8 +56,8 @@ body, html {
   .start-button {
     padding: 10px 20px;
     font-size: 1em;
-    background-color: #aaa4a4; /* Button background color */
-    color: #ddd8d8; /* Button text color */
+    background-color: #8f8888; /* Button background color */
+    color: #a59f9f; /* Button text color */
     border: none;
     border-radius: 5px;
     margin-top: 20px;
