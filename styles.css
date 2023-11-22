@@ -13,7 +13,7 @@ body, html {
   
   .content {
     text-align: center;
-    color: rgb(26, 25, 25); /* Red */
+    color: rgb(26, 25, 25); /*  */
   }
   
   h1 {
@@ -31,7 +31,7 @@ body, html {
   }
   
   .background {
-    background: linear-gradient(to bottom, #101010, #555252);
+    background: linear-gradient(to bottom, #101010, #3d3838);
     height: 100%;
     display: flex;
     align-items: center;
@@ -40,7 +40,7 @@ body, html {
   
   .content {
     text-align: center;
-    color: rgb(74, 69, 69); /* Red */
+    color: rgb(74, 69, 69); /*  */
   }
   
   h1 {
