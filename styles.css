@@ -4,7 +4,7 @@ body, html {
   }
   
   .background {
-    background: linear-gradient(to bottom, #333333, #777575);
+    background: linear-gradient(to bottom, #333333, #706d6d);
     height: 100%;
     display: flex;
     align-items: center;
@@ -25,13 +25,13 @@ body, html {
     font-size: 1.2em;
     margin-top: 10px;
   }
-body, html {
+  body, html {
     height: 100%;
     margin: 0;
   }
   
   .background {
-    background: linear-gradient(to bottom, #333333, #CCCCCC);
+    background: linear-gradient(to bottom, #333333, #828080);
     height: 100%;
     display: flex;
     align-items: center;
@@ -40,7 +40,7 @@ body, html {
   
   .content {
     text-align: center;
-    color: rgb(120, 117, 117); /* Red */
+    color: rgb(107, 104, 104); /* Red */
   }
   
   h1 {
