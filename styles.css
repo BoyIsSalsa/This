@@ -31,7 +31,7 @@ body, html {
   }
   
   .background {
-    background: linear-gradient(to bottom, #333333, #828080);
+    background: linear-gradient(to bottom, #101010, #555252);
     height: 100%;
     display: flex;
     align-items: center;
