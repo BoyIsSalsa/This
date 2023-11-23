@@ -20,21 +20,25 @@
   <meta charset="UTF-8">
   <title></title>
   <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-  <div class="background">
-    <div class="content">
-      <h1></h1>
-      <p></p>
-      <button class="start-button">Start Voting</button>
-    </div>
-  </div>
-</body>
-</html>
-<button id="start-button">Start Voting</button>
-<script>
-  document.querySelector('#Start-button')
-      .addEventListener('click',  () => {
-          window.location.href = 'https://boyissalsa.github.io/nom/#'
-      });   
-</script>
+  <!DOCTYPE html>
+  <html>
+  <head>
+    <title></title>
+  </head>
+  <body>
+  
+  <button id="Start Voting">Start voting</button>
+  
+  <script>
+    // Get the button element
+    var btn = document.getElementById('openWebsite');
+    
+    // Add a click event listener
+    btn.addEventListener('click', function() {
+      // Replace 'https://boyissalsa.github.io/nom/#' with the URL you want to open
+      window.open('https://boyissalsa.github.io/nom/#', '_blank');
+    });
+  </script>
+  
+  </body>
+  </html>
